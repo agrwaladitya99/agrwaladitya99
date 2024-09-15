@@ -6,9 +6,9 @@ A full stack web developer with a strong focus in frontend development. My passi
 
 Feel free to connect with me here:
 
-[![LinkedIn](https://img.shields.io/badge/pranjulagrawal-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-agarwal-254b7a51/)
-[![Instagram Badge](https://img.shields.io/badge/-pranjulagrawall-purple?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/inclusive_aadi)
-[![Gmail Badge](https://img.shields.io/badge/-pranjulagrawal9@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:agrwaladitya99@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/adityaagarwal-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-agarwal-254b7a51/)
+[![Instagram Badge](https://img.shields.io/badge/-inclusive_aadi-purple?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/inclusive_aadi)
+[![Gmail Badge](https://img.shields.io/badge/-agrwaladitya99@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:agrwaladitya99@gmail.com)
 
 ## ⚡ My Tech Stack
 
@@ -24,7 +24,7 @@ Feel free to connect with me here:
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat-square&logo=SASS&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=flat-square&logo=mui&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
